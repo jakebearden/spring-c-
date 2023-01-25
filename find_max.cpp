@@ -1,6 +1,7 @@
 // find max
 
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
 int main()
@@ -13,5 +14,5 @@ int main()
     cin >> b;
     cout << "Enter number" << endl;
     cin >> c;
-    
+
 }
